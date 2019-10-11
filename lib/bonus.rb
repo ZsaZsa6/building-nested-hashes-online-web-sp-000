@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[:hero]#code your solution here:
+  epic_tragedy[mon][:hero]
 
 
 
