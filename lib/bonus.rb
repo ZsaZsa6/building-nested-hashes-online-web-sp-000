@@ -20,7 +20,7 @@ def bonus
    }
   }
 
-  epic_tragedy[mon][:hero]
+  epic_tragedy[:montague][:hero][:]
 
 
 
